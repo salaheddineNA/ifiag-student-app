@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "IFIAG Student Management System",
   description: "Institut de Formation en Informatique et Administration de Gestion",
-    generator: 'v0.dev'
+    generator: 'IFIAG Student Management System'
 }
 
 export default function RootLayout({
